@@ -1,0 +1,22 @@
+{
+  "name": "moving-fog",
+  "version": "0.1.0",
+  "title": "Moving Fog",
+  "author": "Biglo2001",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0"
+  ],
+  "package": {
+    "ignore": [
+      ".git/**",
+      ".gitignore",
+      "ignored/**",
+      "tests/**",
+      "**/*.log",
+      "*.md",
+      "*.ps1",
+      "Readme*.txt"
+    ]
+  }
+}
